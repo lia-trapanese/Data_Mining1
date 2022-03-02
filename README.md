@@ -1,4 +1,4 @@
-# Data_Mining1
+# Data_Mining - Seismic Bumps
 
 Data Mining Project - Seismic Bumps Dataset
 This project includes the following tasks:
